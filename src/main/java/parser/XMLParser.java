@@ -11,6 +11,7 @@ import java.util.List;
 
 public class XMLParser implements Parser {
 
+    
     @Override
     public void parse(File file) {
 
